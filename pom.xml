@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>multiple-databases-test</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>multiple-databases-test</name>
 	<description>Demo project for Spring Boot with multiple databases</description>
 	<properties>
@@ -20,7 +20,7 @@
 		<connection>scm:git:git@github.com:tfpolachini/multi_databases_test.git</connection>
 		<developerConnection>scm:git:git@github.com:tfpolachini/multi_databases_test.git</developerConnection>
 		<url>scm:git:git@github.com:tfpolachini/multi_databases_test.git</url>
-		<tag>HEAD</tag>
+		<tag>v0.0.1</tag>
 	</scm>
 
 	<dependencies>
