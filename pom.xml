@@ -17,9 +17,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:https://github.com/tfpolachini/multi_databases_test.git</connection>
-		<developerConnection>scm:git:ssh://github.com/tfpolachini/multi_databases_test.git</developerConnection>
-		<url>https://github.com/tfpolachini/multi_databases_test.git</url>
+		<connection>scm:git:git@github.com:tfpolachini/multi_databases_test.git</connection>
+		<developerConnection>scm:git:git@github.com:tfpolachini/multi_databases_test.git</developerConnection>
+		<url>scm:git:git@github.com:tfpolachini/multi_databases_test.git</url>
 		<tag>v0.0.1</tag>
 	</scm>
 
